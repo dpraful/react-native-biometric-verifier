@@ -1,0 +1,16 @@
+# NPM Ignore
+.git
+.vscode
+.github
+__tests__
+examples
+scripts
+android
+ios
+.gitignore
+.npmignore
+.history
+.DS_Store
+*.log
+coverage
+docs

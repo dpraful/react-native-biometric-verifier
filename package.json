@@ -1,0 +1,40 @@
+{
+  "name": "react-native-biometric-verifier",
+  "version": "0.0.64",
+  "description": "A React Native module for biometric verification with face recognition and QR code scanning",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "biometric",
+    "verification",
+    "face-recognition",
+    "qr-code"
+  ],
+  "author": "PRAFULDAS M M",
+  "license": "JESCON TECHNOLOGIES PVT LTD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpraful/react-native-biometric-verifier.git"
+  },
+  "homepage": "https://github.com/dpraful/react-native-biometric-verifier#readme",
+  "bugs": {
+    "url": "https://github.com/dpraful/react-native-biometric-verifier/issues"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-native": ">=0.60.0",
+    "react-native-vector-icons": "^9.0.0",
+    "react-native-geolocation-service": "^5.0.0",
+    "react-native-image-resizer": "^1.0.0",
+    "@react-navigation/native": "^6.0.0",
+    "prop-types": "^15.8.0",
+    "react-native-fs": "^2.20.0"
+  },
+  "devDependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.69.0"
+  }
+}
