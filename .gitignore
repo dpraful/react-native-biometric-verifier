@@ -1,0 +1,13 @@
+# General
+.DS_Store
+.idea
+.vscode
+*.log
+node_modules/
+
+# React Native
+android/
+ios/
+coverage/
+__tests__/
+.history/
